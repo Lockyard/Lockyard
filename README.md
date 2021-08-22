@@ -12,7 +12,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384088.svg"/>][linkedin]
 
-[📧](mailto:LorenzoCarnaghi@outlook.it)
+[📧](mailto:LorenzoCarnaghi64@gmail.com)
 
 
 [linkedin]: https://www.linkedin.com/in/lorenzo-carnaghi-665240218/ 
